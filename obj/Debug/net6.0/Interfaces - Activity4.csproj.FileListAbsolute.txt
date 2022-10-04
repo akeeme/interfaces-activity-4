@@ -1,0 +1,15 @@
+/Users/keem/Desktop/Hunter/FALL-22/CSCI 39537/classwork/Interfaces - Activity4/bin/Debug/net6.0/Interfaces - Activity4
+/Users/keem/Desktop/Hunter/FALL-22/CSCI 39537/classwork/Interfaces - Activity4/bin/Debug/net6.0/Interfaces - Activity4.deps.json
+/Users/keem/Desktop/Hunter/FALL-22/CSCI 39537/classwork/Interfaces - Activity4/bin/Debug/net6.0/Interfaces - Activity4.runtimeconfig.json
+/Users/keem/Desktop/Hunter/FALL-22/CSCI 39537/classwork/Interfaces - Activity4/bin/Debug/net6.0/Interfaces - Activity4.dll
+/Users/keem/Desktop/Hunter/FALL-22/CSCI 39537/classwork/Interfaces - Activity4/bin/Debug/net6.0/Interfaces - Activity4.pdb
+/Users/keem/Desktop/Hunter/FALL-22/CSCI 39537/classwork/Interfaces - Activity4/obj/Debug/net6.0/Interfaces - Activity4.csproj.AssemblyReference.cache
+/Users/keem/Desktop/Hunter/FALL-22/CSCI 39537/classwork/Interfaces - Activity4/obj/Debug/net6.0/Interfaces - Activity4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keem/Desktop/Hunter/FALL-22/CSCI 39537/classwork/Interfaces - Activity4/obj/Debug/net6.0/Interfaces - Activity4.AssemblyInfoInputs.cache
+/Users/keem/Desktop/Hunter/FALL-22/CSCI 39537/classwork/Interfaces - Activity4/obj/Debug/net6.0/Interfaces - Activity4.AssemblyInfo.cs
+/Users/keem/Desktop/Hunter/FALL-22/CSCI 39537/classwork/Interfaces - Activity4/obj/Debug/net6.0/Interfaces - Activity4.csproj.CoreCompileInputs.cache
+/Users/keem/Desktop/Hunter/FALL-22/CSCI 39537/classwork/Interfaces - Activity4/obj/Debug/net6.0/Interfaces - Activity4.dll
+/Users/keem/Desktop/Hunter/FALL-22/CSCI 39537/classwork/Interfaces - Activity4/obj/Debug/net6.0/refint/Interfaces - Activity4.dll
+/Users/keem/Desktop/Hunter/FALL-22/CSCI 39537/classwork/Interfaces - Activity4/obj/Debug/net6.0/Interfaces - Activity4.pdb
+/Users/keem/Desktop/Hunter/FALL-22/CSCI 39537/classwork/Interfaces - Activity4/obj/Debug/net6.0/Interfaces - Activity4.genruntimeconfig.cache
+/Users/keem/Desktop/Hunter/FALL-22/CSCI 39537/classwork/Interfaces - Activity4/obj/Debug/net6.0/ref/Interfaces - Activity4.dll
