@@ -1,15 +1,24 @@
 using System;
 using System.Collections;
 
+/*
+    assignment:
+        create a console app with a class that has an interface and push it to a git repo! Send me the link to the repository when done. 
+        your class should have at least one interface and three different types of properties.
+        the interface (and therefore, your class) should have at least three out of these four things:
+        instance methods, properties, events, indexers.
+        Make sure you have an instance of this class in main!
+
+*/
 
 namespace Interfaces
 {
 
     interface NamesInterface {
-        string FirstName { get; set; }
-        string LastName { get; set; }
+        string? FirstName { get; set; }
+        string? LastName { get; set; }
 
-        string FullName { get; }
+        string? FullName { get; }
 
         string GetFullName();
 
